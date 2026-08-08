@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS速度屏蔽模块</string>
+    <string name="xposed_description">Hook Location 速度相关 API，按配置返回固定速度</string>
+</resources>

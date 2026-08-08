@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_blue">#3F64D8</color>
+    <color name="surface">#F7F9FF</color>
+    <color name="ink">#34384B</color>
+    <color name="muted">#73788A</color>
+</resources>
